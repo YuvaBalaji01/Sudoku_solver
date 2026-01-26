@@ -60,4 +60,4 @@ Bash
 .\sudoku_game.exe
 
 NOTE:
-validsudoku.cpp is just a normal sudoku solver code in c++ just for understanding how sudoku is solved using backtracking in c++
+validsudoku.cpp is just a normal sudoku solver code in c++ just for understanding how sudoku is solved using backtracking in c++.
