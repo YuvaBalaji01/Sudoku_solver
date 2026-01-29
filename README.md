@@ -36,8 +36,8 @@ Clone the Repository: Navigate to where you want to store the project (e.g., you
 
 Bash
 
-git clone [YOUR_REPO_URL]
-cd [YOUR_REPO_NAME]
+git clone : https://github.com/YuvaBalaji01/Sudoku_solver
+cd Sudoku_solver
 Configure System Path (One-Time Setup): For VS Code to find the new compiler, you need to add the MSYS2 binary folder to your Windows System PATH environment variables:
 
 Path to add: C:\msys64\ucrt64\bin
